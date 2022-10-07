@@ -13,6 +13,7 @@ Entusiasta de Componentização, Gosto bastante de me manter atualizado e estou 
 
 Caso queira fazer pair programming comigo, não hesite em me chamar, adoraria trocar conhecimento 😊.
 
+  ```
   {
     "tecnologies": [
       "ReactJS",
@@ -22,6 +23,6 @@ Caso queira fazer pair programming comigo, não hesite em me chamar, adoraria tr
       "GraphQl",
     ]
   }
-
+  ```
 
 "O mundo não gira no seu script." <br>
