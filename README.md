@@ -18,7 +18,6 @@ Caso queira fazer pair programming comigo, não hesite em me chamar, adoraria tr
       "React Native",
       "Typescript",
       "NodeJS",
-      "GraphQl",
     ]
   }
   ```
