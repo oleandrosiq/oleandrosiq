@@ -7,9 +7,8 @@
 
 Desenvolvedor Front-End e Apaixonado por tecnologia !! 
 
-Entusiasta de Componentização, Gosto bastante de me manter atualizado e estou sempre estudando para poder contribuir, ajudar a comunidade e dar meu melhor nos projetos em que eu estiver atuando, gosto também de fazer pair programming.
+Entusiasta de Componentização, Gosto bastante de me manter atualizado e estou sempre estudando para poder contribuir, ajudar a comunidade e dar meu melhor nos projetos em que eu estiver atuando.
 
-Caso queira fazer pair programming comigo, não hesite em me chamar, adoraria trocar conhecimento 😊.
 
   ```
   {
