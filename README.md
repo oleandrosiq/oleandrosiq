@@ -7,7 +7,7 @@
 
 Desenvolvedor Front-End e Apaixonado por tecnologia !! 
 
-Entusiasta de Componentização, Gosto bastante de me manter atualizado e estou sempre estudando para poder contribuir, ajudar a comunidade e dar meu melhor nos projetos em que eu estiver atuando.
+Entusiasta de Componentização, Gosto bastante de me manter atualizado e estou sempre estudando para poder contribuir e dar meu melhor nos projetos em que eu estiver atuando.
 
 
   ```
