@@ -13,7 +13,8 @@ Desenvolvedor FullStack
       "ReactJS",
       "Typescript",
       "NodeJS",
-      "C#"
+      "C#",
+      "Docker"
     ]
   }
   ```
